@@ -16,9 +16,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Kirsten Ruge's personal/professional website"
+  subtitle = ""
   mainSections = ["post","posts"]
-  logo = "img/logo.png" # Expecting square dimensions
+  logo = "img/logo2.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
