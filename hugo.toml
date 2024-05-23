@@ -50,35 +50,13 @@ pygmentsCodefencesGuessSyntax = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Some Person"
   website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
-  medium = "username"
-  discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
+  email = "kirstenruge@gmail.com"
+
+  github = "reinainblood"
+
+  linkedin = "kruge"
+
+
 
 [[menu.main]]
     name = "Blog"
@@ -95,3 +73,12 @@ pygmentsCodefencesGuessSyntax = true
     name = "Repos"
     weight = 2
 
+[[menu.main]]
+    parent = "samples
+    url = "https://github.com/reinainblood/linux_interview_simulations"
+    name = "Linux interview simulations"
+
+[[menu.main]]
+parent = "samples
+url = "https://github.com/reinainblood/reinainblood.github.io"
+name = "This site, made with Go"
