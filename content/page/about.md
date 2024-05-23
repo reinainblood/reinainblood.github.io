@@ -8,8 +8,9 @@ cascade:
   featured_image: '/images/skateboard.png'
 ---
 ## About me
-You've landed on my personal GitHub page, welcome! There may not be all that much here right now, 
-but my current adventures in learning Go and improving my Python and ML skills will be shared here.
+Hi! I'm Kirsten, and I'm a native New Yorker transplant to the Minneapolis area. I like Kuberentes, wrangling Linux servers,
+finding chances to still write code as a DevOps engineer and automating things away. I also am a mom of two
+little kiddos, a powerlifter and death metal drummer.
 
 ## Repos
 [A WIP collection of scripts for Linux technical interviews] (https://github.com/reinainblood/linux_interview_simulations)
