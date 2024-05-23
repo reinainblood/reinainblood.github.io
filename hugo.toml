@@ -74,7 +74,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    parent = "samples
+    parent = "samples"
     url = "https://github.com/reinainblood/linux_interview_simulations"
     name = "Linux interview simulations"
 
