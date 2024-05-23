@@ -79,6 +79,6 @@ pygmentsCodefencesGuessSyntax = true
     name = "Linux interview simulations"
 
 [[menu.main]]
-parent = "samples
+parent = "samples"
 url = "https://github.com/reinainblood/reinainblood.github.io"
 name = "This site, made with Go"
