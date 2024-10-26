@@ -1,8 +1,8 @@
 baseurl = "https://reinainblood.github.io"
 DefaultContentLanguage = "en"
-title = "Kirsten Ruge: Infrastructure Person"
+title = "Deployments and Deadlifts: a blog"
 # Using theme as git submodule 
-theme = "blog-pro"
+theme = "Niello"
 # Or when using theme as hugo module
 # theme = "github.com/halogenica/beautifulhugo"
 pygmentsStyle = "trac"
