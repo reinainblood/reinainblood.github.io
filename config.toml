@@ -2,7 +2,7 @@ title = "Kirsten Ruge: Infrastructure Person"
 baseURL = "https://reinainblood.github.io"
 languageCode = "en-us"
 resourceDir = "../resources"
-theme = ["beautifulhugo"]
+theme = ["blog-pro"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
