@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ghostcall opensource work</title>
+      <link>//localhost:1313/projects/2024-10-27./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/2024-10-27./</guid>
+      <description>I have been wanting to contribute to something open source forever but never had the chance to, or in some cases, wasn&amp;rsquo;t contractually allowed to due to working in healthcare etc. But now that I find myself laid off (AGAIN), I am a free agent and have been looking for where to even begin. I don&amp;rsquo;t know the etiquette, and most of my really strong interests right now are NOT things I am professionally good at, like working with AI tools and blockchain.</description>
+    </item>
+    <item>
+      <title>Lumetra.ai</title>
+      <link>//localhost:1313/projects/2024-10-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/2024-10-28/</guid>
+      <description>I have been super frustrated with the current hiring process for tech companies. I am going through so many round of interviews and getting attached to companies, getting to know people really well, making friends, even, and then at the end, either somebody else gets the offer or the company decides to not hire ANYBODY. I wouldn&amp;rsquo;t have spent so many hours preparing for these interviews if I knew there were multiple other, more qualified candidates two steps ahead of me in the pipeline, tbh.</description>
+    </item>
+    <item>
+      <title>My project is getting a job :(</title>
+      <link>//localhost:1313/projects/2024-10-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/2024-10-29/</guid>
+      <description>Well, it&amp;rsquo;s officially been &amp;ldquo;too long&amp;rdquo; for me to be laid-off, both financially and mentally. Not going to lie, I&amp;rsquo;m starting to get a little stressed out. If anybody wants to hire me to write Go code or manage Kubernetes clusters or both, please email me!&#xA;I also have an updated resume pdf hosted here if you&amp;rsquo;d like.&#xA;Much appreciated!</description>
+    </item>
+  </channel>
+</rss>
