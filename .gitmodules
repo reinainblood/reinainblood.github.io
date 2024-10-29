@@ -7,4 +7,6 @@
 [submodule "themes/blog-pro"]
 	path = themes/blog-pro
 	url = https://github.com/HugoBlox/all-access.git
-
+[submodule "themes/Niello"]
+    path = themes/Niello
+    url = https://github.com/guangmean/Niello.git
